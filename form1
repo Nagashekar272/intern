@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .Rectangle{
+            height: 300px;
+            width: 1900px;
+            background-color: blue;
+
+        }
+        rectangle{
+            height: 100px;
+            width: 1900px;
+            color: darkorange;
+        }
+        img{
+            height: 100px;
+            margin-top: 20px;
+            margin-left: 30px;
+        }
+        h2{
+            margin-top: 0px;
+            margin-left: 600px;
+            font-size: 30px;
+        
+        }
+        h1{
+            
+            text-align: center;
+            background-color: darkorange;
+            
+        }
+         .b{
+            height: 100px;
+            width: 1900px;
+        }
+        table{
+            margin-left: 300px;
+        }
+        input{
+            width: 300px;
+        }
+    </style>
+</head>
+<body>
+    <div class="Rectangle"><br><br>
+        <h2>     Government Of India  </h2>
+        <h2>Ministry of Micro,Small and Medium Enterprises</h2>
+        <img src="./download (1).jpeg" alt="">
+        <h1><h1>UDYAM <br>
+            REGISTRATION CERTIFICATE
+        </h1></h1>
+       <form action="">
+       UDYAM REGISTRATION <br>
+                 NUMBER    <input type="text"><br>
+       NAME OF ENTERPRISE  <input type="text"><br>
+       TYPE OF ENTERPRISE  <input type="text"><br>
+          MAJOR ACTIVITY   <input type="text" ><br>
+       SOCIAL CATEGORY OF <br> 
+       ENTREPRENEUR        <input type="text"><br>
+       NAME OF UNITS       <table border="1">
+        <tr>
+            <th>S.no</th>
+            <th>Name of Units</th>
+            
+        </tr>
+        <tr>
+           <td><input type="text"></td>
+           <td><input type="text"></td>
+        </tr>
+       </table></input>
+       OFFICAL ADDRESS OF ENTERPRISE <table border="1">
+        <tr>
+            <th>Flat Door Block No</th>
+             <th> </th>
+             <th>Name of Premises/Building</th>
+             <th></th>
+        </tr><br>
+         <tr>
+            <td>Village/Town</td>
+            <td><input type="text"></td>
+            <td>Block</td>
+            <td><input type="text"></td>
+         </tr>
+        <tr>
+           <td>Road/Street/Lane</td>
+           <td><input type="text"></td>
+           <td>City</td>
+           <td><input type="text"></td>
+        </tr><br>
+        <tr>
+            <td>State</td>
+            <td><input type="text"></td>
+            <td>District</td>
+            <td><input type="text"></td>
+        </tr><br>
+        <tr>
+            <td>Mobile</td>
+            <td><input type="text"></td>
+            <td>Email</td>
+            <td><input type="text"></td>
+        </tr>
+       </table>
+       DATE OF INCORPORATION <br>
+       REGISTRATION OF ENTERPRISE         <input type="date"><br>
+       DATE OF COMMENCEMENT OF <br>
+       PRODUCTION BUSINESS              <input type="date"><br>
+       NATIONAL INDUSTRY <br>
+       CLASSIFICATION CODE(S)
+        <table border="1">
+        <tr>
+          <th>S.no</th>
+          <th>NIC 2 Digit</th>
+          <th>NIC 4 Digit</th>
+          <th>NIC 5 Digit</th>
+          <th>ACTIVITY</th>
+        </tr>
+        <tr>
+            <td><input type="text"></td>
+            <td><input type="text"></td>
+            <td><input type="text"></td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <tr><input type="text"></tr>
+            <td><input type="text"></td>
+            <td><input type="text"></td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td><input type="text"></td>
+            <td><input type="text"></td>
+            <td><input type="text"></td>
+            <td><input type="text"></td>
+        </tr>
+       
+       </table>
+       DATE OF UDYAM REGISTRATION            <input type="date">
+       </form>
+       <p>In case of graduation (upward/reverse) of status of an enterprise, the benefit of the Government Schemes willbe availed as per the provisions of Notification No S.O.2119(E) dated 26.06.2020 issued by the M/o MSME</p>
+       <h3>For any assistance,you may contact:</h3>
+       <h3>1.District Industries Centre :SIWAN(BIHAR)</h3>
+       <h3>2.MSME-DI :MUZAFTARPUR(BIHAR)</h3>
+     </div>
+     
+</body>
+</html>
